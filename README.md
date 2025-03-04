@@ -8,7 +8,7 @@ El proyecto consiste en una aplicación de Windows Forms construido con .NET Fra
 
 Abrir con Visual Studio la solución [ConfigureExecution.sln](src/ConfigureExecution.sln) ubicada en la carpeta *src*.
 
-Ejecutar presionando F5, por defecto tomará la condifuración de *Debug*.
+Ejecutar presionando F5, por defecto tomará la configuración de *Debug*.
 
 1. La configuración actual de la aplicación se encuentra en [src/bin/Debug/ConfiguracionEjecucion.exe.Config](src/bin/Debug/ConfiguracionEjecucion.exe.Config) y debería verse así:
 
